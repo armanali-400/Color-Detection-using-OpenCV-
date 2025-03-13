@@ -27,7 +27,7 @@ Color_Detection/
 ## 🔧 Installation & Setup  
 ### 1️⃣ **Clone the Repository**  
 ```sh
-git clone https://github.com/your-username/Color-Detection.git
+git clone https://github.com/armanali-400/Color-Detection.git
 cd Color-Detection
 ```
 
