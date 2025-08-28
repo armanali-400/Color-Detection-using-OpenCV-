@@ -63,5 +63,5 @@ python app.py
 - You can replace `img1.jpg` with any other image for testing.  
 
 ## 📜 License  
-This project is **free to use** and its very easy to use.  
+This project is free and very easy to use.  
 
